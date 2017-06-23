@@ -1,6 +1,16 @@
 
 # My try to run ff in a docker-alpine-container
-- work but the tabs ofter crashes
+- work but the tabs often crashes
+- only a proof-of yet
+
+- Special thanks go to for his projects
+- Zach Deibert<zachdeibert@gmail.com>
+- Daniel Guerra <daniel.guerra69@gmail.com>
+- Eddie Jaoude https://github.com/eddiejaoude
+
+
+# README.md file from  https://github.com/zachdeibert/docker-images.git
+- 23.June.2017
 
 
 # Docker Images
