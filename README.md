@@ -1,3 +1,8 @@
+
+# My try to run ff in a docker-alpine-container
+- work but the tabs ofter crashes
+
+
 # Docker Images
 This repository contains various `Dockerfile`s that will build many useful images.
 All of these images are also available on [DockerHub](https://hub.docker.com/r/zachdeibert/).
