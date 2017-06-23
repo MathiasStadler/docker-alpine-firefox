@@ -1,3 +1,5 @@
+# env
+ubuntu docker alpine firefox X
 
 # My try to run ff in a docker-alpine-container
 - work but the tabs often crashes
